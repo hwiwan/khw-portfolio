@@ -23,7 +23,7 @@ function open4(){
 }
 
 function open5(){
-    window.open("https://josunhotel.netlify.app/");
+    window.open("https://project-josunhotels.netlify.app/");
 }
 function open6(){
     window.open("https://github.com/oorj/josun");
