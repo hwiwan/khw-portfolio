@@ -8,18 +8,18 @@ $(function(){
 })
 
 function open1(){
-    window.open("https://ksgdw.netlify.app/");
+    window.open("https://project-ksgdw.netlify.app/");
 }
 
 function open2(){
     window.open("https://github.com/oorj/ksgdw");
 }
 function open3(){
-    window.open("https://sony-store.netlify.app");
+    window.open("https://project-sonystore.netlify.app");
 }
 
 function open4(){
-    window.open("https://github.com/oorj/sony-store");
+    window.open("https://github.com/hwiwan/SonyStore");
 }
 
 function open5(){
@@ -27,10 +27,4 @@ function open5(){
 }
 function open6(){
     window.open("https://github.com/oorj/josun");
-}
-function open7(){
-    window.open("https://sptvmfflrtm.netlify.app/");
-}
-function open8(){
-    window.open("https://github.com/oorj/netflix");
 }
